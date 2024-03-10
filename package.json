@@ -13,6 +13,7 @@
     "@babel/traverse": "^7.23.9",
     "@dqbd/tiktoken": "^1.0.7",
     "@headlessui/react": "^1.7.18",
+    "@langchain/openai": "^0.0.19",
     "@tabler/icons-react": "^2.47.0",
     "@vercel/analytics": "^1.1.2",
     "@vercel/kv": "^0.2.4",
